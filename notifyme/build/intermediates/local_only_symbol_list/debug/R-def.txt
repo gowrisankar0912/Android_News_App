@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_check_circle
+layout activity_temp
+string app_name

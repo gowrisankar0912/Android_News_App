@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:5:22-73
+application
+ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:7:5-20:19
+receiver#com.allyants.notifyme.BootNotifyMe
+ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:8:9-11:39
+	android:enabled
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:10:13-35
+	android:exported
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:9:13-41
+receiver#com.allyants.notifyme.ActionReceiver
+ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:12:9-15:39
+	android:enabled
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:13:13-43
+receiver#com.allyants.notifyme.DeletePendingIntent
+ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:16:9-19:48
+	android:enabled
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:18:13-35
+	android:exported
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:17:13-48
+uses-sdk
+INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml

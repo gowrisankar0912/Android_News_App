@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.allyants.notifyme" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="15"
+6-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="26" />
+7-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+9-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:5:5-75
+9-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:5:22-73
+10
+11    <application>
+11-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:7:5-20:19
+12        <receiver
+12-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:8:9-11:39
+13            android:name="com.allyants.notifyme.BootNotifyMe"
+13-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:9:13-41
+14            android:enabled="true"
+14-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:10:13-35
+15            android:exported="true" />
+15-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:11:13-36
+16        <receiver
+16-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:12:9-15:39
+17            android:name="com.allyants.notifyme.ActionReceiver"
+17-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:13:13-43
+18            android:enabled="true"
+18-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:14:13-35
+19            android:exported="true" />
+19-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:15:13-36
+20        <receiver
+20-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:16:9-19:48
+21            android:name="com.allyants.notifyme.DeletePendingIntent"
+21-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:17:13-48
+22            android:enabled="true"
+22-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:18:13-35
+23            android:exported="true" />
+23-->C:\Users\Gowri Sankar Jidugu\AndroidStudioProjects\NotifyMe\notifyme\src\main\AndroidManifest.xml:19:13-36
+24    </application>
+25
+26</manifest>

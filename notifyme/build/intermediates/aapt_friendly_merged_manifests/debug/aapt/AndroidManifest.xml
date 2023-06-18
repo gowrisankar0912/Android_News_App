@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.allyants.notifyme" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+
+    <application>
+        <receiver
+            android:name="com.allyants.notifyme.BootNotifyMe"
+            android:enabled="true"
+            android:exported="true" />
+        <receiver
+            android:name="com.allyants.notifyme.ActionReceiver"
+            android:enabled="true"
+            android:exported="true" />
+        <receiver
+            android:name="com.allyants.notifyme.DeletePendingIntent"
+            android:enabled="true"
+            android:exported="true" />
+    </application>
+
+</manifest>
